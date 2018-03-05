@@ -1,3 +1,3 @@
 # TesteTecnicoCVC
 
-Teste técnico para vaga de Desenvolvedor IOS na CVC - Gabriel Reganati
+Teste técnico para vaga de Desenvolvedor IOS na CVC - App Submarino Viagens - Gabriel Reganati
