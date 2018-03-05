@@ -1,3 +1,3 @@
 # TesteTecnicoCVC
 
-Teste t[ecnico para vaga IOS na CVC
+Teste técnico para vaga de Dev IOS na CVC
