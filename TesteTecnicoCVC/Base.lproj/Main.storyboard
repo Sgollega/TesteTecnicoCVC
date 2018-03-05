@@ -126,7 +126,7 @@
                                 </constraints>
                             </view>
                             <button opaque="NO" contentMode="scaleToFill" enabled="NO" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Wel-vl-4iN">
-                                <rect key="frame" x="62" y="424" width="197" height="40"/>
+                                <rect key="frame" x="62" y="447" width="197" height="40"/>
                                 <color key="backgroundColor" red="1" green="0.85098039215686272" blue="0.58039215686274503" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="40" id="fbh-oo-ddY"/>
@@ -154,7 +154,7 @@
                             <constraint firstItem="Wel-vl-4iN" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="62" id="bDe-xJ-kJn"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Wel-vl-4iN" secondAttribute="trailing" constant="61" id="e0a-di-b2r"/>
                             <constraint firstItem="7J4-ru-ecX" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="193" id="faf-1R-iY0"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="Wel-vl-4iN" secondAttribute="bottom" constant="104" id="isO-7Y-U8g"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="Wel-vl-4iN" secondAttribute="bottom" constant="81" id="isO-7Y-U8g"/>
                             <constraint firstItem="q8F-5B-hRZ" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="jBW-Sn-CbG"/>
                             <constraint firstItem="q8F-5B-hRZ" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="jbd-RA-ZZj"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="q8F-5B-hRZ" secondAttribute="trailing" constant="20" id="nVr-hk-GYX"/>
@@ -200,7 +200,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xhm-lA-eZz">
-                                <rect key="frame" x="118" y="428" width="84" height="40"/>
+                                <rect key="frame" x="118" y="468" width="84" height="40"/>
                                 <color key="backgroundColor" red="1" green="0.62352941176470589" blue="0.10980392156862745" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="40" id="ue8-wr-T4l"/>
@@ -225,7 +225,7 @@
                             <constraint firstItem="yEZ-Pd-yuY" firstAttribute="centerX" secondItem="CwU-zu-S7Q" secondAttribute="centerX" id="qPI-lc-zH5"/>
                             <constraint firstItem="xhm-lA-eZz" firstAttribute="centerX" secondItem="yEZ-Pd-yuY" secondAttribute="centerX" id="rQT-wE-qZ2"/>
                             <constraint firstItem="CwU-zu-S7Q" firstAttribute="leading" secondItem="jMi-CD-ykw" secondAttribute="leading" constant="84" id="rtu-2S-xbc"/>
-                            <constraint firstItem="jMi-CD-ykw" firstAttribute="bottom" secondItem="xhm-lA-eZz" secondAttribute="bottom" constant="100" id="san-Lj-LIC"/>
+                            <constraint firstItem="jMi-CD-ykw" firstAttribute="bottom" secondItem="xhm-lA-eZz" secondAttribute="bottom" constant="60" id="san-Lj-LIC"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="jMi-CD-ykw"/>
                     </view>
