@@ -1,3 +1,3 @@
 # TesteTecnicoCVC
 
-Teste técnico para vaga de Dev IOS na CVC
+Teste técnico para vaga de Desenvolvedor IOS na CVC - Gabriel Reganati
